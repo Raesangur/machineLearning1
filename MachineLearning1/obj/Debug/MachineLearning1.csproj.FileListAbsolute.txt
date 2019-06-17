@@ -1,0 +1,15 @@
+E:\Programmation\C#\MachineLearning1\MachineLearning1\bin\Debug\MachineLearning1.exe.config
+E:\Programmation\C#\MachineLearning1\MachineLearning1\bin\Debug\MachineLearning1.exe
+E:\Programmation\C#\MachineLearning1\MachineLearning1\bin\Debug\MachineLearning1.pdb
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.ColorRecognition.resources
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.ColorRecognitionHistory.resources
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.MachineLearning.resources
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.NeuralNetworkGeneration.resources
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.Properties.Resources.resources
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.Savefile.resources
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.Settings.resources
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.csproj.GenerateResource.cache
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.csproj.CoreCompileInputs.cache
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.exe
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.pdb
+E:\Programmation\C#\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.csprojAssemblyReference.cache

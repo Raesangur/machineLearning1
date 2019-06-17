@@ -1,0 +1,138 @@
+Version 1
+2018-12-24
+3 Neurons in Column 1
+6 Neurons in Column 2
+6 Neurons in Column 3
+8 Neurons in Column 4
+Column 1 neurons biases:
+0 in Neuron_1_1
+0 in Neuron_1_2
+0 in Neuron_1_3
+Column 2 neurons biases:
+1,81061060252162 in Neuron_2_1
+0,485166162478349 in Neuron_2_2
+1,39055454236947 in Neuron_2_3
+0,811120919329636 in Neuron_2_4
+3,10260665747458 in Neuron_2_5
+3,57330241872617 in Neuron_2_6
+Column 3 neurons biases:
+0,382740579258064 in Neuron_3_1
+4,64073104999993 in Neuron_3_2
+0,863419303606925 in Neuron_3_3
+4,03384834250149 in Neuron_3_4
+1,05269971352662 in Neuron_3_5
+0,333394876370856 in Neuron_3_6
+Column 4 neurons biases:
+0 in Neuron_4_1
+0 in Neuron_4_2
+0 in Neuron_4_3
+0 in Neuron_4_4
+0 in Neuron_4_5
+0 in Neuron_4_6
+0 in Neuron_4_7
+0 in Neuron_4_8
+Connection weights:
+C_Neuron_1_1_Neuron_2_1 connecting Neuron_1_1 with Neuron_2_1 weight : 1
+C_Neuron_1_1_Neuron_2_2 connecting Neuron_1_1 with Neuron_2_2 weight : 1
+C_Neuron_1_1_Neuron_2_3 connecting Neuron_1_1 with Neuron_2_3 weight : 1
+C_Neuron_1_1_Neuron_2_4 connecting Neuron_1_1 with Neuron_2_4 weight : 1
+C_Neuron_1_1_Neuron_2_5 connecting Neuron_1_1 with Neuron_2_5 weight : 1
+C_Neuron_1_1_Neuron_2_6 connecting Neuron_1_1 with Neuron_2_6 weight : 1
+C_Neuron_1_2_Neuron_2_1 connecting Neuron_1_2 with Neuron_2_1 weight : 1
+C_Neuron_1_2_Neuron_2_2 connecting Neuron_1_2 with Neuron_2_2 weight : 1
+C_Neuron_1_2_Neuron_2_3 connecting Neuron_1_2 with Neuron_2_3 weight : 1
+C_Neuron_1_2_Neuron_2_4 connecting Neuron_1_2 with Neuron_2_4 weight : 1
+C_Neuron_1_2_Neuron_2_5 connecting Neuron_1_2 with Neuron_2_5 weight : 1
+C_Neuron_1_2_Neuron_2_6 connecting Neuron_1_2 with Neuron_2_6 weight : 1
+C_Neuron_1_3_Neuron_2_1 connecting Neuron_1_3 with Neuron_2_1 weight : 1
+C_Neuron_1_3_Neuron_2_2 connecting Neuron_1_3 with Neuron_2_2 weight : 1
+C_Neuron_1_3_Neuron_2_3 connecting Neuron_1_3 with Neuron_2_3 weight : 1
+C_Neuron_1_3_Neuron_2_4 connecting Neuron_1_3 with Neuron_2_4 weight : 1
+C_Neuron_1_3_Neuron_2_5 connecting Neuron_1_3 with Neuron_2_5 weight : 1
+C_Neuron_1_3_Neuron_2_6 connecting Neuron_1_3 with Neuron_2_6 weight : 1
+C_Neuron_2_1_Neuron_3_1 connecting Neuron_2_1 with Neuron_3_1 weight : 1
+C_Neuron_2_1_Neuron_3_2 connecting Neuron_2_1 with Neuron_3_2 weight : 1
+C_Neuron_2_1_Neuron_3_3 connecting Neuron_2_1 with Neuron_3_3 weight : 1
+C_Neuron_2_1_Neuron_3_4 connecting Neuron_2_1 with Neuron_3_4 weight : 1
+C_Neuron_2_1_Neuron_3_5 connecting Neuron_2_1 with Neuron_3_5 weight : 1
+C_Neuron_2_1_Neuron_3_6 connecting Neuron_2_1 with Neuron_3_6 weight : 1
+C_Neuron_2_2_Neuron_3_1 connecting Neuron_2_2 with Neuron_3_1 weight : 1
+C_Neuron_2_2_Neuron_3_2 connecting Neuron_2_2 with Neuron_3_2 weight : 1
+C_Neuron_2_2_Neuron_3_3 connecting Neuron_2_2 with Neuron_3_3 weight : 1
+C_Neuron_2_2_Neuron_3_4 connecting Neuron_2_2 with Neuron_3_4 weight : 1
+C_Neuron_2_2_Neuron_3_5 connecting Neuron_2_2 with Neuron_3_5 weight : 1
+C_Neuron_2_2_Neuron_3_6 connecting Neuron_2_2 with Neuron_3_6 weight : 1
+C_Neuron_2_3_Neuron_3_1 connecting Neuron_2_3 with Neuron_3_1 weight : 1
+C_Neuron_2_3_Neuron_3_2 connecting Neuron_2_3 with Neuron_3_2 weight : 1
+C_Neuron_2_3_Neuron_3_3 connecting Neuron_2_3 with Neuron_3_3 weight : 1
+C_Neuron_2_3_Neuron_3_4 connecting Neuron_2_3 with Neuron_3_4 weight : 1
+C_Neuron_2_3_Neuron_3_5 connecting Neuron_2_3 with Neuron_3_5 weight : 1
+C_Neuron_2_3_Neuron_3_6 connecting Neuron_2_3 with Neuron_3_6 weight : 1
+C_Neuron_2_4_Neuron_3_1 connecting Neuron_2_4 with Neuron_3_1 weight : 1
+C_Neuron_2_4_Neuron_3_2 connecting Neuron_2_4 with Neuron_3_2 weight : 1
+C_Neuron_2_4_Neuron_3_3 connecting Neuron_2_4 with Neuron_3_3 weight : 1
+C_Neuron_2_4_Neuron_3_4 connecting Neuron_2_4 with Neuron_3_4 weight : 1
+C_Neuron_2_4_Neuron_3_5 connecting Neuron_2_4 with Neuron_3_5 weight : 1
+C_Neuron_2_4_Neuron_3_6 connecting Neuron_2_4 with Neuron_3_6 weight : 1
+C_Neuron_2_5_Neuron_3_1 connecting Neuron_2_5 with Neuron_3_1 weight : 1
+C_Neuron_2_5_Neuron_3_2 connecting Neuron_2_5 with Neuron_3_2 weight : 1
+C_Neuron_2_5_Neuron_3_3 connecting Neuron_2_5 with Neuron_3_3 weight : 1
+C_Neuron_2_5_Neuron_3_4 connecting Neuron_2_5 with Neuron_3_4 weight : 1
+C_Neuron_2_5_Neuron_3_5 connecting Neuron_2_5 with Neuron_3_5 weight : 1
+C_Neuron_2_5_Neuron_3_6 connecting Neuron_2_5 with Neuron_3_6 weight : 1
+C_Neuron_2_6_Neuron_3_1 connecting Neuron_2_6 with Neuron_3_1 weight : 1
+C_Neuron_2_6_Neuron_3_2 connecting Neuron_2_6 with Neuron_3_2 weight : 1
+C_Neuron_2_6_Neuron_3_3 connecting Neuron_2_6 with Neuron_3_3 weight : 1
+C_Neuron_2_6_Neuron_3_4 connecting Neuron_2_6 with Neuron_3_4 weight : 1
+C_Neuron_2_6_Neuron_3_5 connecting Neuron_2_6 with Neuron_3_5 weight : 1
+C_Neuron_2_6_Neuron_3_6 connecting Neuron_2_6 with Neuron_3_6 weight : 1
+C_Neuron_3_1_Neuron_4_1 connecting Neuron_3_1 with Neuron_4_1 weight : 1
+C_Neuron_3_1_Neuron_4_2 connecting Neuron_3_1 with Neuron_4_2 weight : 1
+C_Neuron_3_1_Neuron_4_3 connecting Neuron_3_1 with Neuron_4_3 weight : 1
+C_Neuron_3_1_Neuron_4_4 connecting Neuron_3_1 with Neuron_4_4 weight : 1
+C_Neuron_3_1_Neuron_4_5 connecting Neuron_3_1 with Neuron_4_5 weight : 1
+C_Neuron_3_1_Neuron_4_6 connecting Neuron_3_1 with Neuron_4_6 weight : 1
+C_Neuron_3_1_Neuron_4_7 connecting Neuron_3_1 with Neuron_4_7 weight : 1
+C_Neuron_3_1_Neuron_4_8 connecting Neuron_3_1 with Neuron_4_8 weight : 1
+C_Neuron_3_2_Neuron_4_1 connecting Neuron_3_2 with Neuron_4_1 weight : 1
+C_Neuron_3_2_Neuron_4_2 connecting Neuron_3_2 with Neuron_4_2 weight : 1
+C_Neuron_3_2_Neuron_4_3 connecting Neuron_3_2 with Neuron_4_3 weight : 1
+C_Neuron_3_2_Neuron_4_4 connecting Neuron_3_2 with Neuron_4_4 weight : 1
+C_Neuron_3_2_Neuron_4_5 connecting Neuron_3_2 with Neuron_4_5 weight : 1
+C_Neuron_3_2_Neuron_4_6 connecting Neuron_3_2 with Neuron_4_6 weight : 1
+C_Neuron_3_2_Neuron_4_7 connecting Neuron_3_2 with Neuron_4_7 weight : 1
+C_Neuron_3_2_Neuron_4_8 connecting Neuron_3_2 with Neuron_4_8 weight : 1
+C_Neuron_3_3_Neuron_4_1 connecting Neuron_3_3 with Neuron_4_1 weight : 1
+C_Neuron_3_3_Neuron_4_2 connecting Neuron_3_3 with Neuron_4_2 weight : 1
+C_Neuron_3_3_Neuron_4_3 connecting Neuron_3_3 with Neuron_4_3 weight : 1
+C_Neuron_3_3_Neuron_4_4 connecting Neuron_3_3 with Neuron_4_4 weight : 1
+C_Neuron_3_3_Neuron_4_5 connecting Neuron_3_3 with Neuron_4_5 weight : 1
+C_Neuron_3_3_Neuron_4_6 connecting Neuron_3_3 with Neuron_4_6 weight : 1
+C_Neuron_3_3_Neuron_4_7 connecting Neuron_3_3 with Neuron_4_7 weight : 1
+C_Neuron_3_3_Neuron_4_8 connecting Neuron_3_3 with Neuron_4_8 weight : 1
+C_Neuron_3_4_Neuron_4_1 connecting Neuron_3_4 with Neuron_4_1 weight : 1
+C_Neuron_3_4_Neuron_4_2 connecting Neuron_3_4 with Neuron_4_2 weight : 1
+C_Neuron_3_4_Neuron_4_3 connecting Neuron_3_4 with Neuron_4_3 weight : 1
+C_Neuron_3_4_Neuron_4_4 connecting Neuron_3_4 with Neuron_4_4 weight : 1
+C_Neuron_3_4_Neuron_4_5 connecting Neuron_3_4 with Neuron_4_5 weight : 1
+C_Neuron_3_4_Neuron_4_6 connecting Neuron_3_4 with Neuron_4_6 weight : 1
+C_Neuron_3_4_Neuron_4_7 connecting Neuron_3_4 with Neuron_4_7 weight : 1
+C_Neuron_3_4_Neuron_4_8 connecting Neuron_3_4 with Neuron_4_8 weight : 1
+C_Neuron_3_5_Neuron_4_1 connecting Neuron_3_5 with Neuron_4_1 weight : 1
+C_Neuron_3_5_Neuron_4_2 connecting Neuron_3_5 with Neuron_4_2 weight : 1
+C_Neuron_3_5_Neuron_4_3 connecting Neuron_3_5 with Neuron_4_3 weight : 1
+C_Neuron_3_5_Neuron_4_4 connecting Neuron_3_5 with Neuron_4_4 weight : 1
+C_Neuron_3_5_Neuron_4_5 connecting Neuron_3_5 with Neuron_4_5 weight : 1
+C_Neuron_3_5_Neuron_4_6 connecting Neuron_3_5 with Neuron_4_6 weight : 1
+C_Neuron_3_5_Neuron_4_7 connecting Neuron_3_5 with Neuron_4_7 weight : 1
+C_Neuron_3_5_Neuron_4_8 connecting Neuron_3_5 with Neuron_4_8 weight : 1
+C_Neuron_3_6_Neuron_4_1 connecting Neuron_3_6 with Neuron_4_1 weight : 1
+C_Neuron_3_6_Neuron_4_2 connecting Neuron_3_6 with Neuron_4_2 weight : 1
+C_Neuron_3_6_Neuron_4_3 connecting Neuron_3_6 with Neuron_4_3 weight : 1
+C_Neuron_3_6_Neuron_4_4 connecting Neuron_3_6 with Neuron_4_4 weight : 1
+C_Neuron_3_6_Neuron_4_5 connecting Neuron_3_6 with Neuron_4_5 weight : 1
+C_Neuron_3_6_Neuron_4_6 connecting Neuron_3_6 with Neuron_4_6 weight : 1
+C_Neuron_3_6_Neuron_4_7 connecting Neuron_3_6 with Neuron_4_7 weight : 1
+C_Neuron_3_6_Neuron_4_8 connecting Neuron_3_6 with Neuron_4_8 weight : 1
+END
+
